@@ -1,6 +1,6 @@
 <!-- Imagen del encabezado centrada -->
 <p align="center">
-  <img src="Imagenes/Encabezado.png" alt="FarmaBot Banner" width="800"/>
+  <img src="Imagenes/Portada.png" alt="FarmaBot Banner" width="800"/>
 </p>
 
 # 💊 FarmaBot
