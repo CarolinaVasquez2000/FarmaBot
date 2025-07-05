@@ -5,7 +5,7 @@
 
 # 💊 FarmaBot
 
-**FarmaBot** es un proyecto enfocado en el desarrollo de un robot autónomo capaz de recolectar cajas de medicamentos específicos desde una estantería de farmacia. El robot recibe instrucciones proporcionadas por un usuario, navega a lo largo de un camino predefinido y transporta los medicamentos solicitados hasta una zona de recepción.
+**FarmaBot** El proyecto consiste en el desarrollo de un robot capaz de realizar la recolección de cajas de medicamentos específicos desde una estantería de farmacia, basándose en las instrucciones proporcionadas por un usuario. El robot navegará a lo largo de un camino predefinido y será capaz de manipular y transportar los medicamentos solicitados hasta una zona de recepción.
 
 ---
 
