@@ -10,7 +10,7 @@
   <img src="Imagenes/CARRO IMAGEN.jpg" alt="FarmaBot Banner" width="800"/>
 </p>
 <p align="center">
-  <img src="Imagenes/CARRO RECORRIDO.png" alt="FarmaBot Banner" width="800"/>
+  <img src="Imagenes/CARRO RECORRIDO.PNG" alt="FarmaBot Banner" width="800"/>
 </p>
 
 ---
