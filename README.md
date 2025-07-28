@@ -12,7 +12,9 @@
 <p align="center">
   <img src="Imagenes/CARRO CON ESTANTERIA.jpg" alt="FarmaBot Banner" width="800"/>
 </p>
-
+<p align="center">
+  <img src="Imagenes/PARTES.jpg" alt="FarmaBot Banner" width="800"/>
+</p>
 ---
 
 ## 👥 Integrantes
